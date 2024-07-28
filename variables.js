@@ -22,4 +22,4 @@ console.table([ list1, integer, arr1]);
 //Difference between var and let: Var does not follow global and local scope definitions
 //Prefer not to use var because of issue in block scope and fucntional scope
 
-    
+arr = ["hello", "hi"]
