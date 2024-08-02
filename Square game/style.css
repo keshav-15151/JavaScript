@@ -15,3 +15,10 @@
     align-items: center;
     justify-content: center;
 }
+
+#cursor{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: blue;
+}
